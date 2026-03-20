@@ -1,2 +1,2 @@
 # Game
-juego avnced
+juego avanced
